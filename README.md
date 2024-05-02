@@ -32,7 +32,6 @@ research
 1. Orange and purple cap player
 2. Top 4 qualifying teams
 3. Winner and runner-up
-Your Picks
 4. Pick your team selecting the Best 11 players based on their positions, 3 years
 performance data and additional research
 5. Pick your top 3 all-rounders
